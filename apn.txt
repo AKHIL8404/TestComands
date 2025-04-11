@@ -1,0 +1,5 @@
+**Git Bash** 
+is a Windows app that lets you use **Git commands** and a 
+**Linux-style terminal** on your PC. 
+It's mainly used for version control and scripting in a Unix-like
+ environment.
